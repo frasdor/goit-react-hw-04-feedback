@@ -1,0 +1,19 @@
+ 
+  .sectionTitle {
+    font-size: 24px; 
+    color:  rgb(81, 60, 100); 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+.section {
+    background-color:  rgb(238, 227, 248); 
+    border-radius: 5px; 
+    padding: 20px; 
+    width: 400px; 
+    min-height: 200px; 
+    margin: 20px auto; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    
+}
